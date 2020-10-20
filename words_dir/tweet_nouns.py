@@ -80,6 +80,12 @@ nouns = [
     'Bat 🦇',
     'Cow',
     'Giraffe 🦒',
+    'Polar Bear',
+    'Peacock',
+    'Sloth',
+    'Tiger',
+    'Mountain Lion',
+    
 
     # clothing items
     'flannel shirt',
@@ -87,9 +93,9 @@ nouns = [
     'kippah',
     'boot 🥾',
     'wallet',
-    'earmuffs',
+    'earmuff',
     'hijab',
-    'headphones 🎧',
+    'headphone 🎧',
     'handbag 👛',
     'head scarf',
     'haltertop',
@@ -130,6 +136,7 @@ nouns = [
     'murse',
     'feather boa',
     'cravat',
+    'yukata',
 
     # foods
     'pizza 🍕',
@@ -137,8 +144,8 @@ nouns = [
     'protein shake',
     'tuna',
     'cheeseburger 🍔',
-    'french fries 🍟',
-    'mashed potatoes',
+    'french fry 🍟',
+    'mashed potato',
     'lasagna',
     'fried chicken 🍗',
     'peanut butter',
@@ -147,10 +154,10 @@ nouns = [
     'fortune cookie 🥠',
     'arroz con pollo',
     'quesadilla',
-    'pierogies',
+    'pierogi',
     'bagel 🥯',
     'chicken tikka masala',
-    'chicken and dumplings',
+    'chicken and dumpling',
     'fried plantain',
     'ratatouille',
     'ramen',
@@ -181,7 +188,7 @@ nouns = [
     'Khia sangia',
     'banana',
     'salmon',
-    'noodles',
+    'noodle',
     'dosa',
     'chicken dinner',
     'butter chicken',
@@ -192,11 +199,11 @@ nouns = [
     'taco 🌮',
     'croissant 🥐',
     'doughnut 🍩',
-    'pretzels 🥨',
+    'pretzel 🥨',
     'bavarian beer 🍺',
     'congee',
     'chili baby corn',
-    'tacos',
+    'taco,
     'omlette',
     'mousse',
     'banana split',
@@ -231,6 +238,8 @@ nouns = [
     'lechon',
     'rainbow cake',
     'tiramisu',
+    'lasagna',
+    'baked ziti',
 
     # computer things
     'laptop',
@@ -321,6 +330,11 @@ nouns = [
     'Xbox X',
     'Adventure Vision',
     'Virtual Boy',
+    'Xbox One',
+    'PS2',
+    'PS3',
+    'PS4',
+    'Xbox 360',
 
     # nature
     'bolt of lightning ⚡',
@@ -356,7 +370,7 @@ nouns = [
     'cave',
     'desert',
     'sleet',
-    'stars',
+    'star',
     'beach 🏖',
 
     # classroom objects
@@ -524,7 +538,7 @@ nouns = [
     'volley ball net',
     'water polo',
     'chess board',
-    'hula hoops',
+    'hula hoop',
     'batting gloves',
     'badminton net',
 
